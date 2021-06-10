@@ -1,0 +1,6 @@
+# it might be helpful to use pandas
+
+requests
+python-dotenv
+# pandas
+# plotly express
